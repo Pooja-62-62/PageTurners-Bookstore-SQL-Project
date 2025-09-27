@@ -26,9 +26,4 @@ Using SQL Server, I:
 - Data Cleaning & Query Optimization
 - Business Problem-Solving with SQL
 
-## 📂 Files Included
-- `Project Report.pdf` → Full project documentation
-- `schema.sql` → Database schema (if available)
-- `queries.sql` → Key SQL queries used (if available)
-
 ---
